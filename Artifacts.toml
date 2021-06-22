@@ -1,0 +1,288 @@
+[[LHAPDF]]
+arch = "aarch64"
+git-tree-sha1 = "1266b0e2309fe8b2ebed300adb20a6d9f7ddec3d"
+os = "macos"
+
+    [[LHAPDF.download]]
+    sha256 = "ef15b2e2d7019ff8835d2ff0a91a0424cd6338a3aedeb8f51008a211ab63df32"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.aarch64-apple-darwin.tar.gz"
+[[LHAPDF]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c431268c74d79d9b3b323eb76156785d08b8c175"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "a9c32e91c2ec94218c2a78ec47853f38adc51ab25953cb38ca0a356508e850ba"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e7075315ffae09d89e753a05b2c28b29af36998"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "84eb2e4dc63abd7b80bfb89d7b05e77c0bfb386f87a601bb14d4a61ed03ac434"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b8d85bf18d8047f01713f3f0d6e870b036930a0b"
+libc = "musl"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "dc21c93ad30b349cd428decfaf7a03573e954d890abe44533f82846e091d497b"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.aarch64-linux-musl-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01dd3ef493b9cdde62d81a7210beb985d4fca228"
+libc = "musl"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "de5649a778a038138b808444df6371e00c69f2798f3794e0227f9606cc2a672d"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.aarch64-linux-musl-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dda8425e4b146efe6d97d1e78d3d9fd2fef5b29e"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "ddd35717760aad27a93019abe1fa2c32520063f0b5085eb337adba520d298219"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f8403a82b0383b2c5e90053fd0dd8cc37ce99e93"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "6f6ecf020e6b903d7124abfa27da1158e8c2806af04c069bad9a4fb05dc6813b"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "37d0053530bcba96621287fa8a1effc0d0232018"
+libc = "musl"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "32a235dba922b64b2540cdc46ec01cb44396bbec8497e5653be440c498fe80d2"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "469d2d3fc92c2bb5ab1626623a007bc28bd03258"
+libc = "musl"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "ad8ba532bdbac863c8e089a6dd851e14e74384396011068cf53e93434968b1a5"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0ce160adb6d7d8def80ac2c8266684d20a2980c3"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "5f6d15c398bb26167fdc3d9013cad104124ffa0c44ccd5850b117077d4650620"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "94800f6783ae485bebe68a359459a152f4716ca0"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "148e60655567f1e23bac77febb83ed7d66f4a48a5010490cbf42df7e7bc4319f"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a522d9d939af5045e816b88d6e796546e6d72fbc"
+libc = "musl"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "138ac71bac901cc33d57a7a25990d3dd41fdf49634ff6b125ac5a0fb5c58754e"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8543f22bf273ffde963129d678a413a80507a1d6"
+libc = "musl"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "57814cc2ab417cfebabf55e0120e91d1b65562cc28d0bc1c8c7dc302f0e3d13e"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ecfb492a4c3e07d5a24b50d7dd8279ee549a8324"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "f06276883020945887cd6a741d7fceac62e511eb866978b402c3e9a238eee246"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.i686-linux-gnu-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b4007837e424a2bef9711c31e07bf4de270292a"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "2a360348b0d2de3940ae06801fc930276a1907d7f9ea5aedcedab9734b08fb01"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.i686-linux-gnu-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ee21df3f0581a08ce67658dc5054f09f5e310c36"
+libc = "musl"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "afb2063f3fac5e16ae81162964221df99660080654c7eb33ab0366f8dc86eb4d"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.i686-linux-musl-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ff6e5f2974ac21aa1ae63ce7866da005ef9ffd7b"
+libc = "musl"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "415a468395cd7865ba542f123c4cce42067ae0e5fb90af3a2cb17f200c37887a"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.i686-linux-musl-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "baeaebb688f4f858c6e8b596e0335b39779d9f90"
+os = "windows"
+
+    [[LHAPDF.download]]
+    sha256 = "ba151c48e467e3e35c3d1a344a15a253ed05b46d91958e21812fd4596f4f9fe8"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.i686-w64-mingw32-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bd837c09267efef9116c1f0935aeee0bc0d189a1"
+os = "windows"
+
+    [[LHAPDF.download]]
+    sha256 = "24929b306bd5ec2bfd55eb7faa12fd8f9bd4641aaa7e00cb0f7bb192225bdad9"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.i686-w64-mingw32-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5e75019cbe3a468bf607fa9c2a41f2baeced6e0a"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "5003ba8a64cd02e30e06442d81fae401aac7c12c674833a2e823e8b4c9b0f054"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4bd951a8b8ea593b8ffe6bdbdb77e03e38d27c3f"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "e2753aad071a9f1a9a82afbf02c6b013504801e4f3cbfb625a117fba8a06401a"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "x86_64"
+git-tree-sha1 = "a730c49196589abc1a5dd231b0d9a6923fb2a23f"
+os = "macos"
+
+    [[LHAPDF.download]]
+    sha256 = "8c220aaf3cd87b43de784244c2c5cf05c7179fb0f9183be93edbffd3f3203586"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.x86_64-apple-darwin.tar.gz"
+[[LHAPDF]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "31beecbd3bd1034cf86765267a78814558876df5"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "88762ce59ab11cc071aca7a8ebeed802dc2d7bdd684ad2232f86befc3f1804e9"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "05ad1bfdf8b6ddbf29c35ff4d99c09f18dacd2e3"
+libc = "glibc"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "d87a2ddb03782c128255dabf86a242e6c62dbccee80015a5a3bb3411a5a2a82a"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1624532d7ada89f8c0afc713999db7a43c8a5e65"
+libc = "musl"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "5ffff8f63a8b165f0a50f3b0bc84f89aee7b38151b12fcb322cd78f563d29588"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.x86_64-linux-musl-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "19d829f2470f5a4a4458f4873959c960821b2e83"
+libc = "musl"
+os = "linux"
+
+    [[LHAPDF.download]]
+    sha256 = "b72106553ec8f14e52c32a410f96a67d5668e5f679a821656addb180c03aa621"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.x86_64-linux-musl-cxx11.tar.gz"
+[[LHAPDF]]
+arch = "x86_64"
+git-tree-sha1 = "6b1abc038c423b740767952289dba635fbd890c2"
+os = "freebsd"
+
+    [[LHAPDF.download]]
+    sha256 = "4622047c3caa054a6d94d66df5583cbf432dcd9e42e19081e8614eb80fb4e47f"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.x86_64-unknown-freebsd.tar.gz"
+[[LHAPDF]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8ee06561ddb39a29e2c261078de489412d3a632f"
+os = "windows"
+
+    [[LHAPDF.download]]
+    sha256 = "c4586edc081ea189cd6d7c1259204697e1b209fd5db1c99bd7083d894385bdc7"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LHAPDF]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7d00633276adb319720258cd6211c25ce3e80d6"
+os = "windows"
+
+    [[LHAPDF.download]]
+    sha256 = "1ead056298ec3a1167f474666e99c240870c9353001ad0832a42fb8eeb61e3de"
+    url = "https://github.com/JuliaBinaryWrappers/LHAPDF_jll.jl/releases/download/LHAPDF-v6.3.0+0/LHAPDF.v6.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
